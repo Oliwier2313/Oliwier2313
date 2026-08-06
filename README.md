@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Oliwier 👋
 
-<!--
-**Oliwier2313/Oliwier2313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate of a degree program focused on data analysis.  
+On this profile, I would like to share several projects that I have completed or am currently working on.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in data analytics and would like to continue developing my skills in this field.
+
+I enjoy working with data, discovering patterns and transforming raw information into clear and useful insights. Through my projects, I aim to improve my analytical, programming and problem-solving skills.
+
+I am currently looking for opportunities to gain practical experience and grow professionally in data analytics.
+
+## Skills and Technologies
+
+### Programming Languages
+
+- Python
+- R
+- C#
+- SQL
+
+### Data Analysis and Machine Learning
+
+- pandas
+- NumPy
+- scikit-learn
+
+### Other Tools
+
+- Microsoft Excel
+- Git
+- GitHub
+
+## Featured Projects
+
+## Contact
+
+- **email:** oliwierlaskowski25@gmail.com
