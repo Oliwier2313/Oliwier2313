@@ -34,6 +34,27 @@ I am currently looking for opportunities to gain practical experience and grow p
 
 ## Featured Projects
 
+### 1. Adult Income Classification
+
+A machine learning project focused on predicting whether an individual earns more than USD 50,000 per year based on demographic and employment-related data. The project covers data preprocessing, exploratory analysis, model training and performance evaluation using the UCI Adult dataset.
+
+**Technologies:** Python, pandas, NumPy, scikit-learn, Matplotlib, seaborn  
+
+
+### 2. Bike and Car Image Classification
+
+A computer vision project combining a convolutional neural network with the K-Nearest Neighbors algorithm. The CNN extracts 128-dimensional features from vehicle images, while KNN performs the final classification. The model achieved 93.46% accuracy and an AUC ROC score of 0.9657.
+
+**Technologies:** Python, PyTorch, torchvision, scikit-learn, NumPy  
+
+
+### 3. Credit Risk Data Preparation and Modeling in SAS
+
+A SAS project focused on integrating multiple banking datasets, processing transaction histories and creating an analytical table for credit risk modeling. The project demonstrates data cleaning, SQL joins, time-based aggregations, feature engineering and decision tree evaluation in SAS Enterprise Miner.
+
+**Technologies:** SAS, PROC SQL, SAS DATA Step, SAS Enterprise Miner  
+
+
 ## Contact
 
 - **email:** oliwierlaskowski25@gmail.com
