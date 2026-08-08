@@ -53,7 +53,7 @@ https://github.com/Oliwier2313/cnn-knn-image-classification
 A SAS project focused on integrating multiple banking datasets, processing transaction histories and creating an analytical table for credit risk modeling. The project demonstrates data cleaning, SQL joins, time-based aggregations, feature engineering and decision tree evaluation in SAS Enterprise Miner.
 
 **Technologies:** SAS, PROC SQL, SAS DATA Step, SAS Enterprise Miner  
-
+https://github.com/Oliwier2313/Credit-Risk-Data-Preparation-and-Modeling-in-SAS
 
 ## Contact
 
