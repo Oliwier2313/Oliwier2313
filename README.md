@@ -39,7 +39,7 @@ I am currently looking for opportunities to gain practical experience and grow p
 A machine learning project focused on predicting whether an individual earns more than USD 50,000 per year based on demographic and employment-related data. The project covers data preprocessing, exploratory analysis, model training and performance evaluation using the UCI Adult dataset.
 
 **Technologies:** Python, pandas, NumPy, scikit-learn, Matplotlib, seaborn  
-
+https://github.com/Oliwier2313/Adult-Income-Classification
 
 ### 2. Bike and Car Image Classification
 
