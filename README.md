@@ -46,7 +46,7 @@ https://github.com/Oliwier2313/Adult-Income-Classification
 A computer vision project combining a convolutional neural network with the K-Nearest Neighbors algorithm. The CNN extracts 128-dimensional features from vehicle images, while KNN performs the final classification. The model achieved 93.46% accuracy and an AUC ROC score of 0.9657.
 
 **Technologies:** Python, PyTorch, torchvision, scikit-learn, NumPy  
-
+https://github.com/Oliwier2313/cnn-knn-image-classification
 
 ### 3. Credit Risk Data Preparation and Modeling in SAS
 
